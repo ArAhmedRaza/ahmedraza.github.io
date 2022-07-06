@@ -1,0 +1,21 @@
+Requirment For Installation
+1)Firebase Account
+2)Files From You
+ 1)Admin Panel
+ 2)Consumer App
+ 3)Vendor App
+ 4)Delivery Guy App
+3)Playstore Console
+4)App Store Console
+5)Graphics
+ 1) App Icons 
+  1) Consumer App
+  2) Delivery Guy App
+  3) Vendor App
+  2)Push Notification Icon
+  3)Logo
+  4)SplashScreen Logo (If the splash screen logo is different)
+  5) Playstore Screenshots
+  6) Apple Screenshots
+6) Google Maps API
+7) Scheme Color
